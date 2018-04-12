@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Uniocoin Explorer - 1.6.1
 ================
 
